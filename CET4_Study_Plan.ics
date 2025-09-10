@@ -1,0 +1,725 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cet4-0@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250911T080000
+DTEND;TZID=Asia/Shanghai:20250911T200000
+SUMMARY:四级复习 Day 1
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-1@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250912T080000
+DTEND;TZID=Asia/Shanghai:20250912T200000
+SUMMARY:四级复习 Day 2
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-2@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250913T080000
+DTEND;TZID=Asia/Shanghai:20250913T200000
+SUMMARY:四级复习 Day 3
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-3@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250914T080000
+DTEND;TZID=Asia/Shanghai:20250914T200000
+SUMMARY:四级复习 Day 4
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-4@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250915T080000
+DTEND;TZID=Asia/Shanghai:20250915T200000
+SUMMARY:四级复习 Day 5
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-5@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250916T080000
+DTEND;TZID=Asia/Shanghai:20250916T200000
+SUMMARY:四级复习 Day 6
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-6@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250917T080000
+DTEND;TZID=Asia/Shanghai:20250917T200000
+SUMMARY:四级复习 Day 7
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-7@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250918T080000
+DTEND;TZID=Asia/Shanghai:20250918T200000
+SUMMARY:四级复习 Day 8
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-8@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250919T080000
+DTEND;TZID=Asia/Shanghai:20250919T200000
+SUMMARY:四级复习 Day 9
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-9@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250920T080000
+DTEND;TZID=Asia/Shanghai:20250920T200000
+SUMMARY:四级复习 Day 10
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-10@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250921T080000
+DTEND;TZID=Asia/Shanghai:20250921T200000
+SUMMARY:四级复习 Day 11
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-11@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250922T080000
+DTEND;TZID=Asia/Shanghai:20250922T200000
+SUMMARY:四级复习 Day 12
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-12@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250923T080000
+DTEND;TZID=Asia/Shanghai:20250923T200000
+SUMMARY:四级复习 Day 13
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-13@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250924T080000
+DTEND;TZID=Asia/Shanghai:20250924T200000
+SUMMARY:四级复习 Day 14
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-14@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250925T080000
+DTEND;TZID=Asia/Shanghai:20250925T200000
+SUMMARY:四级复习 Day 15
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-15@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250926T080000
+DTEND;TZID=Asia/Shanghai:20250926T200000
+SUMMARY:四级复习 Day 16
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-16@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250927T080000
+DTEND;TZID=Asia/Shanghai:20250927T200000
+SUMMARY:四级复习 Day 17
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-17@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250928T080000
+DTEND;TZID=Asia/Shanghai:20250928T200000
+SUMMARY:四级复习 Day 18
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-18@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250929T080000
+DTEND;TZID=Asia/Shanghai:20250929T200000
+SUMMARY:四级复习 Day 19
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-19@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20250930T080000
+DTEND;TZID=Asia/Shanghai:20250930T200000
+SUMMARY:四级复习 Day 20
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-20@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251001T080000
+DTEND;TZID=Asia/Shanghai:20251001T200000
+SUMMARY:四级复习 Day 21
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-21@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251002T080000
+DTEND;TZID=Asia/Shanghai:20251002T200000
+SUMMARY:四级复习 Day 22
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-22@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251003T080000
+DTEND;TZID=Asia/Shanghai:20251003T200000
+SUMMARY:四级复习 Day 23
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-23@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251004T080000
+DTEND;TZID=Asia/Shanghai:20251004T200000
+SUMMARY:四级复习 Day 24
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-24@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251005T080000
+DTEND;TZID=Asia/Shanghai:20251005T200000
+SUMMARY:四级复习 Day 25
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-25@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251006T080000
+DTEND;TZID=Asia/Shanghai:20251006T200000
+SUMMARY:四级复习 Day 26
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-26@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251007T080000
+DTEND;TZID=Asia/Shanghai:20251007T200000
+SUMMARY:四级复习 Day 27
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-27@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251008T080000
+DTEND;TZID=Asia/Shanghai:20251008T200000
+SUMMARY:四级复习 Day 28
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-28@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251009T080000
+DTEND;TZID=Asia/Shanghai:20251009T200000
+SUMMARY:四级复习 Day 29
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-29@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251010T080000
+DTEND;TZID=Asia/Shanghai:20251010T200000
+SUMMARY:四级复习 Day 30
+DESCRIPTION:阶段一（基础巩固） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段一（基础巩固） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段一（基础巩固） - 下午：阅读真题 1–2 篇（30分钟）\n阶段一（基础巩固） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-30@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251011T080000
+DTEND;TZID=Asia/Shanghai:20251011T200000
+SUMMARY:四级复习 Day 31
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-31@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251012T080000
+DTEND;TZID=Asia/Shanghai:20251012T200000
+SUMMARY:四级复习 Day 32
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-32@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251013T080000
+DTEND;TZID=Asia/Shanghai:20251013T200000
+SUMMARY:四级复习 Day 33
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-33@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251014T080000
+DTEND;TZID=Asia/Shanghai:20251014T200000
+SUMMARY:四级复习 Day 34
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-34@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251015T080000
+DTEND;TZID=Asia/Shanghai:20251015T200000
+SUMMARY:四级复习 Day 35
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-35@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251016T080000
+DTEND;TZID=Asia/Shanghai:20251016T200000
+SUMMARY:四级复习 Day 36
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-36@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251017T080000
+DTEND;TZID=Asia/Shanghai:20251017T200000
+SUMMARY:四级复习 Day 37
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-37@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251018T080000
+DTEND;TZID=Asia/Shanghai:20251018T200000
+SUMMARY:四级复习 Day 38
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-38@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251019T080000
+DTEND;TZID=Asia/Shanghai:20251019T200000
+SUMMARY:四级复习 Day 39
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-39@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251020T080000
+DTEND;TZID=Asia/Shanghai:20251020T200000
+SUMMARY:四级复习 Day 40
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-40@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251021T080000
+DTEND;TZID=Asia/Shanghai:20251021T200000
+SUMMARY:四级复习 Day 41
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-41@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251022T080000
+DTEND;TZID=Asia/Shanghai:20251022T200000
+SUMMARY:四级复习 Day 42
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-42@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251023T080000
+DTEND;TZID=Asia/Shanghai:20251023T200000
+SUMMARY:四级复习 Day 43
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-43@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251024T080000
+DTEND;TZID=Asia/Shanghai:20251024T200000
+SUMMARY:四级复习 Day 44
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-44@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251025T080000
+DTEND;TZID=Asia/Shanghai:20251025T200000
+SUMMARY:四级复习 Day 45
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-45@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251026T080000
+DTEND;TZID=Asia/Shanghai:20251026T200000
+SUMMARY:四级复习 Day 46
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-46@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251027T080000
+DTEND;TZID=Asia/Shanghai:20251027T200000
+SUMMARY:四级复习 Day 47
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-47@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251028T080000
+DTEND;TZID=Asia/Shanghai:20251028T200000
+SUMMARY:四级复习 Day 48
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-48@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251029T080000
+DTEND;TZID=Asia/Shanghai:20251029T200000
+SUMMARY:四级复习 Day 49
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-49@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251030T080000
+DTEND;TZID=Asia/Shanghai:20251030T200000
+SUMMARY:四级复习 Day 50
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-50@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251031T080000
+DTEND;TZID=Asia/Shanghai:20251031T200000
+SUMMARY:四级复习 Day 51
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-51@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251101T080000
+DTEND;TZID=Asia/Shanghai:20251101T200000
+SUMMARY:四级复习 Day 52
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-52@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251102T080000
+DTEND;TZID=Asia/Shanghai:20251102T200000
+SUMMARY:四级复习 Day 53
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-53@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251103T080000
+DTEND;TZID=Asia/Shanghai:20251103T200000
+SUMMARY:四级复习 Day 54
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-54@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251104T080000
+DTEND;TZID=Asia/Shanghai:20251104T200000
+SUMMARY:四级复习 Day 55
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-55@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251105T080000
+DTEND;TZID=Asia/Shanghai:20251105T200000
+SUMMARY:四级复习 Day 56
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-56@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251106T080000
+DTEND;TZID=Asia/Shanghai:20251106T200000
+SUMMARY:四级复习 Day 57
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-57@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251107T080000
+DTEND;TZID=Asia/Shanghai:20251107T200000
+SUMMARY:四级复习 Day 58
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-58@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251108T080000
+DTEND;TZID=Asia/Shanghai:20251108T200000
+SUMMARY:四级复习 Day 59
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-59@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251109T080000
+DTEND;TZID=Asia/Shanghai:20251109T200000
+SUMMARY:四级复习 Day 60
+DESCRIPTION:阶段二（强化提升） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段二（强化提升） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段二（强化提升） - 下午：阅读真题 1–2 篇（30分钟）\n阶段二（强化提升） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-60@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251110T080000
+DTEND;TZID=Asia/Shanghai:20251110T200000
+SUMMARY:四级复习 Day 61
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-61@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251111T080000
+DTEND;TZID=Asia/Shanghai:20251111T200000
+SUMMARY:四级复习 Day 62
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-62@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251112T080000
+DTEND;TZID=Asia/Shanghai:20251112T200000
+SUMMARY:四级复习 Day 63
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-63@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251113T080000
+DTEND;TZID=Asia/Shanghai:20251113T200000
+SUMMARY:四级复习 Day 64
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-64@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251114T080000
+DTEND;TZID=Asia/Shanghai:20251114T200000
+SUMMARY:四级复习 Day 65
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-65@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251115T080000
+DTEND;TZID=Asia/Shanghai:20251115T200000
+SUMMARY:四级复习 Day 66
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-66@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251116T080000
+DTEND;TZID=Asia/Shanghai:20251116T200000
+SUMMARY:四级复习 Day 67
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-67@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251117T080000
+DTEND;TZID=Asia/Shanghai:20251117T200000
+SUMMARY:四级复习 Day 68
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-68@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251118T080000
+DTEND;TZID=Asia/Shanghai:20251118T200000
+SUMMARY:四级复习 Day 69
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-69@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251119T080000
+DTEND;TZID=Asia/Shanghai:20251119T200000
+SUMMARY:四级复习 Day 70
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-70@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251120T080000
+DTEND;TZID=Asia/Shanghai:20251120T200000
+SUMMARY:四级复习 Day 71
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-71@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251121T080000
+DTEND;TZID=Asia/Shanghai:20251121T200000
+SUMMARY:四级复习 Day 72
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-72@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251122T080000
+DTEND;TZID=Asia/Shanghai:20251122T200000
+SUMMARY:四级复习 Day 73
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-73@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251123T080000
+DTEND;TZID=Asia/Shanghai:20251123T200000
+SUMMARY:四级复习 Day 74
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-74@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251124T080000
+DTEND;TZID=Asia/Shanghai:20251124T200000
+SUMMARY:四级复习 Day 75
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-75@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251125T080000
+DTEND;TZID=Asia/Shanghai:20251125T200000
+SUMMARY:四级复习 Day 76
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-76@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251126T080000
+DTEND;TZID=Asia/Shanghai:20251126T200000
+SUMMARY:四级复习 Day 77
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-77@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251127T080000
+DTEND;TZID=Asia/Shanghai:20251127T200000
+SUMMARY:四级复习 Day 78
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-78@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251128T080000
+DTEND;TZID=Asia/Shanghai:20251128T200000
+SUMMARY:四级复习 Day 79
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-79@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251129T080000
+DTEND;TZID=Asia/Shanghai:20251129T200000
+SUMMARY:四级复习 Day 80
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-80@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251130T080000
+DTEND;TZID=Asia/Shanghai:20251130T200000
+SUMMARY:四级复习 Day 81
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-81@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251201T080000
+DTEND;TZID=Asia/Shanghai:20251201T200000
+SUMMARY:四级复习 Day 82
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-82@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251202T080000
+DTEND;TZID=Asia/Shanghai:20251202T200000
+SUMMARY:四级复习 Day 83
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-83@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251203T080000
+DTEND;TZID=Asia/Shanghai:20251203T200000
+SUMMARY:四级复习 Day 84
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-84@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251204T080000
+DTEND;TZID=Asia/Shanghai:20251204T200000
+SUMMARY:四级复习 Day 85
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-85@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251205T080000
+DTEND;TZID=Asia/Shanghai:20251205T200000
+SUMMARY:四级复习 Day 86
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-86@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251206T080000
+DTEND;TZID=Asia/Shanghai:20251206T200000
+SUMMARY:四级复习 Day 87
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-87@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251207T080000
+DTEND;TZID=Asia/Shanghai:20251207T200000
+SUMMARY:四级复习 Day 88
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-88@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251208T080000
+DTEND;TZID=Asia/Shanghai:20251208T200000
+SUMMARY:四级复习 Day 89
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+BEGIN:VEVENT
+UID:cet4-89@studyplan
+DTSTAMP:20250910T030431Z
+DTSTART;TZID=Asia/Shanghai:20251209T080000
+DTEND;TZID=Asia/Shanghai:20251209T200000
+SUMMARY:四级复习 Day 90
+DESCRIPTION:阶段三（冲刺实战） - 早晨：背单词 80–100 个 + 复习前一天（20分钟）\n阶段三（冲刺实战） - 中午：听力真题 1 篇 + 跟读（30分钟）\n阶段三（冲刺实战） - 下午：阅读真题 1–2 篇（30分钟）\n阶段三（冲刺实战） - 晚上：作文/翻译训练（30分钟） + 单词复习
+END:VEVENT
+END:VCALENDAR
